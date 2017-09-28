@@ -1,0 +1,19 @@
+{
+  "name": "augusto.musica.web",
+  "version": "0.0.1",
+  "description": "Augusto Music Web Site",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aguschirico/augusto.musica.web.git"
+  },
+  "author": "Augusto Chirico",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aguschirico/augusto.musica.web/issues"
+  },
+  "homepage": "https://github.com/aguschirico/augusto.musica.web#readme"
+}
