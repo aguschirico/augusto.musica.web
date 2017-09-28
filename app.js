@@ -36,4 +36,4 @@ fs.readFile(filename, "binary", function(err, file) {
 });
 }).listen(parseInt(port, 10));
 
-console.log(`Static file server running at\n  => ${url.parse(request.url).pathname}:${port}/\nCTRL + C to shutdown`);
+console.log(`Static file server running at\n port => ${port}\nCTRL + C to shutdown`);
