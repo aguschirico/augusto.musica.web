@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/aguschirico/augusto.musica.web/issues"
   },
-  "homepage": "https://github.com/aguschirico/augusto.musica.web#readme"
+  "homepage": "https://github.com/aguschirico/augusto.musica.web#readme",
+  "dependencies": {
+    "dotenv": "^4.0.0"
+  }
 }
